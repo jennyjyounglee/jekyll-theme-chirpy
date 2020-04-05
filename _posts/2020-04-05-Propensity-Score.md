@@ -7,6 +7,8 @@ seo:
   date_modified: 2020-03-30 07:34:39 +0800
 ---
 ## THIS IS A TEST Post
+This includes a test pdf file for posting [Test PDF File](https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf) as below at the top of the post:
+
 
 ## Naming and Path
 
@@ -14,7 +16,7 @@ Create a new file named with the format `YYYY-MM-DD-title.md` then put it into `
 
 ## Front Matter
 
-Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-matter/) as below at the top of the post:
+Basically, you need to fill the [Front Matter](https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf) as below at the top of the post:
 
 ```yaml
 ---
