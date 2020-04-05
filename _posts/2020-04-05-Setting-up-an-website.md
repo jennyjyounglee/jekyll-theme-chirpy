@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-date: 2019-08-09 20:55:00 +0800
+title: Setting up an website using jekyll
+date: 2020-04-03 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 seo:
