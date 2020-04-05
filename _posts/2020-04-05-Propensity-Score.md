@@ -1,8 +1,8 @@
 ---
-title: This is a first test post
+title: Propensity Score
 date: 2020-04-05 14:10:00 +0800
-categories: [Animal, Insect]
-tags: [bee]
+categories: [Causal Inference, Paper Review]
+tags: [propensity score]
 seo:
   date_modified: 2020-03-30 07:34:39 +0800
 ---
