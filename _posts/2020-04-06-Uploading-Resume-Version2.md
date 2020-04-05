@@ -12,6 +12,6 @@ seo:
   <title>kekayan's Resume</title>
 </head>
   <body>
-    <a href="https://github.com/jennyjyounglee/Statistics/raw/master/testintrotostat.pdf" target="_blank">PDF.</a>d=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <a href="https://github.com/jennyjyounglee/Statistics/testintrotostat.pdf" target="_blank">PDF.</a>
   </body>
 </html>
