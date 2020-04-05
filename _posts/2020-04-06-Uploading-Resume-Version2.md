@@ -6,12 +6,12 @@ tags: [getting started]
 seo:
   date_modified: 2020-04-06 07:34:39 +0800
 ---
-
+<html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <title>kekayan's Resume</title>
 </head>
   <body>
-    <a href="https://github.com/jennyjyounglee/Statistics/testintrotostat.pdf" target="_blank">PDF.</a>
+    <a href="https://jennyjyounglee.github.io/resume/KK.pdf" target="_blank">PDF.</a>
   </body>
 </html>
