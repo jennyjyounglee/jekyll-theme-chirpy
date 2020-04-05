@@ -24,3 +24,14 @@ height="300">
 
 ## Third try for a pdf view
 <iframe src="https://docs.google.com/viewer?url=https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+
+## Fourth try for a pdf view
+<!DOCTYPE html>
+<html>
+    <body>
+        <iframe src="https://docs.google.com/gview?url=https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf&embedded=true"
+        style="width: 90%; height: 1000px">
+            <p>Your browser does not support iframes.</p>
+        </iframe>
+    </body>
+</html>
