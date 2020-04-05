@@ -12,6 +12,6 @@ seo:
   <title>kekayan's Resume</title>
 </head>
   <body>
-    <a href="https://jennyjyounglee.github.io/resume/KK.pdf" target="_blank">PDF.</a>
+    <a href="https://jennyjyounglee.github.io/resume" target="_blank">PDF.</a>
   </body>
 </html>
