@@ -4,7 +4,7 @@ date: 2020-04-05 14:10:00 +0800
 categories: [Causal Inference, Paper Review]
 tags: [propensity score]
 seo:
-  date_modified: 2020-03-30 07:34:39 +0800
+  date_modified: 2020-04-05 01:41:26 -0400
 ---
 ## THIS IS A TEST Post
 This includes a test pdf file for posting [Test PDF File](https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf) as below at the top of the post:
