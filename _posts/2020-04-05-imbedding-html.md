@@ -6,10 +6,11 @@ tags: [markdown]
 seo:
   date_modified: 2020-04-05 02:36:02 -0400
 ---
-## THIS IS A TEST Post
+## Add an Image
+<img src="https://octodex.github.com/images/jetpacktocat.png"
+height="300">
 
-# <embed src="https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf" width="600px" height="500px" />
-
+## Add a pdf
 
 <object data="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf">
