@@ -13,5 +13,6 @@ seo:
 </head>
   <body>
     <a href="https://jennyjyounglee.github.io/resume" target="_blank">https://jennyjyounglee.github.io/resume</a>
+	<a href="https://github.com/jennyjyounglee/Statistics/raw/master/testintrotostat.pdf" target="_blank">link2</a>
   </body>
 </html>
