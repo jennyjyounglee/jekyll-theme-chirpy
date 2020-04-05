@@ -29,7 +29,7 @@ height="300">
 <!DOCTYPE html>
 <html>
     <body>
-        <iframe src="https://docs.google.com/gview?url=https://github.com/jennyjyounglee/Statistics/blob/master/testintrotostat.pdf&embedded=true"
+        <iframe src="https://docs.google.com/gview?url=https://www.adobe.com/support/ovation/ts/docs/ovation_test_show.ppt&embedded=true"
         style="width: 90%; height: 1000px">
             <p>Your browser does not support iframes.</p>
         </iframe>
